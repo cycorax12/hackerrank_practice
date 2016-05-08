@@ -1,7 +1,5 @@
 package in.cycorax.string;
 
-import java.util.Scanner;
-
 /**
  * 
  * 
@@ -15,10 +13,7 @@ public class StringIntroduction {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		
-		Scanner s = new Scanner(System.in);
-		String A = s.next();
-		String B = s.next();
+
 	}
 
 }
